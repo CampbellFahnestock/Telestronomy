@@ -1,0 +1,820 @@
+SCOPEY COMPLETE ASTRONOMY DATA FILE
+====================================
+
+SECTION A — ORIGINAL COORDINATE DATA (PRESERVED)
+================================================
+
+COORDINATESCONSTELLATIONREGISTRATION NR.STAR NAME![](https://star-register.eu/api/sky-image?ra=281.40875&dec=79.942667&w=96&h=96&fov=0.35)
+RA 18h 45m 38.1s Dec 79° 56' 33.6''Draco`3C1A5724D`Written in the StarsView sky map →![](https://star-register.eu/api/sky-image?ra=332.117083&dec=61.24825&w=96&h=96&fov=0.35)
+RA 22h 8m 28.1s Dec 61° 14' 53.7''Cepheus`64C90761D`Faith LaShayeView sky map →![](https://star-register.eu/api/sky-image?ra=42.94125&dec=58.314278&w=96&h=96&fov=0.35)
+RA 2h 51m 45.9s Dec 58° 18' 51.4''Cassiopeia`E355B1F9F`AdelineView sky map →![](https://star-register.eu/api/sky-image?ra=330.950417&dec=55.849222&w=96&h=96&fov=0.35)
+RA 22h 3m 48.1s Dec 55° 50' 57.2''Cepheus`477022119`27View sky map →![](https://star-register.eu/api/sky-image?ra=187.709583&dec=-4.060806&w=96&h=96&fov=0.35)
+RA 12h 30m 50.3s Dec -4° 3' 38.9''Virgo`F3D2F66E9`Princess JaimieView sky map →![](https://star-register.eu/api/sky-image?ra=182.841667&dec=-2.699111&w=96&h=96&fov=0.35)
+RA 12h 11m 22.0s Dec -2° 41' 56.8''Virgo`2868F3ED3`Karen and MonicaView sky map →![](https://star-register.eu/api/sky-image?ra=140.507083&dec=74.912722&w=96&h=96&fov=0.35)
+RA 9h 22m 1.7s Dec 74° 54' 45.8''Camelopardalis`EAC3924E3`ValentinaView sky map →![](https://star-register.eu/api/sky-image?ra=318&dec=35.644917&w=96&h=96&fov=0.35)
+RA 21h 11m 60.0s Dec 35° 38' 41.7''Cygnus`E13E5B40D`Fahad Al AnsariView sky map →![](https://star-register.eu/api/sky-image?ra=129.823333&dec=52.711611&w=96&h=96&fov=0.35)
+RA 8h 39m 17.6s Dec 52° 42' 41.8''Ursa Major`55D1C5D0C`ChariView sky map →![](https://star-register.eu/api/sky-image?ra=281.585833&dec=-22.392167&w=96&h=96&fov=0.35)
+RA 18h 46m 20.6s Dec -22° 23' 31.8''Sagittarius`D197B2598`Robert CamachoView sky map →RA 14h 16m 21.4s Dec -6° 37' 17.6''Virgo`9ECB272F2`Aster HailiView sky map →![](https://star-register.eu/api/sky-image?ra=112.017083&dec=66.491083&w=96&h=96&fov=0.35)
+RA 7h 28m 4.1s Dec 66° 29' 27.9''Camelopardalis`6A822697A`Linda KayView sky map →![](https://star-register.eu/api/sky-image?ra=337.190417&dec=76.235611&w=96&h=96&fov=0.35)
+RA 22h 28m 45.7s Dec 76° 14' 8.2''Cepheus`69CB1513C`Robert Nour AlbiView sky map →![](https://star-register.eu/api/sky-image?ra=191.59375&dec=9.539694&w=96&h=96&fov=0.35)
+RA 12h 46m 22.5s Dec 9° 32' 22.9''Virgo`7B0CA3E6E`Larisa DamianaView sky map →![](https://star-register.eu/api/sky-image?ra=260.439167&dec=53.420417&w=96&h=96&fov=0.35)
+RA 17h 21m 45.4s Dec 53° 25' 13.5''Draco`453A794D6`Aleix & Estel·laView sky map →![](https://star-register.eu/api/sky-image?ra=214.09625&dec=46.088306&w=96&h=96&fov=0.35)
+RA 14h 16m 23.1s Dec 46° 5' 17.9''Bootes`E4D148422`LanceView sky map →![](https://star-register.eu/api/sky-image?ra=269.294583&dec=47.226194&w=96&h=96&fov=0.35)
+RA 17h 57m 10.7s Dec 47° 13' 34.3''Hercules`CC1397FF2`AnnaView sky map →![](https://star-register.eu/api/sky-image?ra=253.61&dec=-33.475361&w=96&h=96&fov=0.35)
+RA 16h 54m 26.4s Dec -33° 28' 31.3''Scorpius`95022C41D`EnricoView sky map →![](https://star-register.eu/api/sky-image?ra=110.510833&dec=36.760583&w=96&h=96&fov=0.35)
+RA 7h 22m 2.6s Dec 36° 45' 38.1''Auriga`DB8BF7D25`Rory’s StarView sky map →![](https://star-register.eu/api/sky-image?ra=58.713333&dec=52.419861&w=96&h=96&fov=0.35)
+RA 3h 54m 51.2s Dec 52° 25' 11.5''Perseus`3C9A2B4FB`Temilade AdebowaleView sky map →![](https://star-register.eu/api/sky-image?ra=289.13&dec=48.35675&w=96&h=96&fov=0.35)
+RA 19h 16m 31.2s Dec 48° 21' 24.3''Cygnus`CB34B1941`Caterina 18View sky map →![](https://star-register.eu/api/sky-image?ra=271.75625&dec=30.562139&w=96&h=96&fov=0.35)
+RA 18h 7m 1.5s Dec 30° 33' 43.7''Hercules`DB92247BF`Franco & FrancaView sky map →![](https://star-register.eu/api/sky-image?ra=42.783333&dec=60.41775&w=96&h=96&fov=0.35)
+RA 2h 51m 8.0s Dec 60° 25' 3.9''Cassiopeia`364CF6058`Lucy JoanneView sky map →![](https://star-register.eu/api/sky-image?ra=334.734167&dec=37.769278&w=96&h=96&fov=0.35)
+RA 22h 18m 56.2s Dec 37° 46' 9.4''Lacerta`4712D8617`Lawrie George SpencerView sky map →![](https://star-register.eu/api/sky-image?ra=84.229583&dec=61.232528&w=96&h=96&fov=0.35)
+RA 5h 36m 55.1s Dec 61° 13' 57.1''Camelopardalis`CD376965E`DiDi in the SkyView sky map →![](https://star-register.eu/api/sky-image?ra=258.095417&dec=43.73725&w=96&h=96&fov=0.35)
+RA 17h 12m 22.9s Dec 43° 44' 14.1''Hercules`1652F1658`Miss PearlView sky map →![](https://star-register.eu/api/sky-image?ra=253.964167&dec=77.959694&w=96&h=96&fov=0.35)
+RA 16h 55m 51.4s Dec 77° 57' 34.9''Ursa Minor`544606034`Yesenia SanchezView sky map →![](https://star-register.eu/api/sky-image?ra=173.677083&dec=16.796917&w=96&h=96&fov=0.35)
+RA 11h 34m 42.5s Dec 16° 47' 48.9''Leo`78F36A38D`Dumbo and JumboView sky map →![](https://star-register.eu/api/sky-image?ra=309.355417&dec=41.393111&w=96&h=96&fov=0.35)
+RA 20h 37m 25.3s Dec 41° 23' 35.2''Cygnus`ED1FF47C7`RufusView sky map →![](https://star-register.eu/api/sky-image?ra=125.70875&dec=43.188139&w=96&h=96&fov=0.35)
+RA 8h 22m 50.1s Dec 43° 11' 17.3''Lynx`FC2BDFDAD`SanovaView sky map →![](https://star-register.eu/api/sky-image?ra=85.155417&dec=-2.82525&w=96&h=96&fov=0.35)
+RA 5h 40m 37.3s Dec -2° 49' 30.9''Orion`D906625C4`Kamilla's BeautyView sky map →![](https://star-register.eu/api/sky-image?ra=212.9425&dec=-12.611778&w=96&h=96&fov=0.35)
+RA 14h 11m 46.2s Dec -12° 36' 42.4''Virgo`C5409FC6E`MemawView sky map →![](https://star-register.eu/api/sky-image?ra=244.960417&dec=-50.1555&w=96&h=96&fov=0.35)
+RA 16h 19m 50.5s Dec -50° 9' 19.8''Norma`C04573D2A`NocerisView sky map →![](https://star-register.eu/api/sky-image?ra=271.854583&dec=77.593139&w=96&h=96&fov=0.35)
+RA 18h 7m 25.1s Dec 77° 35' 35.3''Draco`EE8B95746`Dr. Patricia BorstorffView sky map →![](https://star-register.eu/api/sky-image?ra=267.682083&dec=-35.531972&w=96&h=96&fov=0.35)
+RA 17h 50m 43.7s Dec -35° 31' 55.1''Scorpius`960A34A86`My MrsfiveStarView sky map →![](https://star-register.eu/api/sky-image?ra=271.797917&dec=34.82525&w=96&h=96&fov=0.35)
+RA 18h 7m 11.5s Dec 34° 49' 30.9''Hercules`248C54DE6`LewiView sky map →![](https://star-register.eu/api/sky-image?ra=335.548333&dec=-10.848083&w=96&h=96&fov=0.35)
+RA 22h 22m 11.6s Dec -10° 50' 53.1''Aquarius`5B386FFC6`C&CView sky map →![](https://star-register.eu/api/sky-image?ra=232.668333&dec=-16.609472&w=96&h=96&fov=0.35)
+RA 15h 30m 40.4s Dec -16° 36' 34.1''Libra`698E4B17B`Ciera GoodenView sky map →![](https://star-register.eu/api/sky-image?ra=354.276667&dec=53.452778&w=96&h=96&fov=0.35)
+RA 23h 37m 6.4s Dec 53° 27' 10.0''Cassiopeia`97AADC618`Meu carinhoView sky map →![](https://star-register.eu/api/sky-image?ra=146.31125&dec=23.474556&w=96&h=96&fov=0.35)
+RA 9h 45m 14.7s Dec 23° 28' 28.4''Leo`A7D887F80`Regulus AnaticulaView sky map →![](https://star-register.eu/api/sky-image?ra=24.531667&dec=57.977639&w=96&h=96&fov=0.35)
+RA 1h 38m 7.6s Dec 57° 58' 39.5''Cassiopeia`7875483B5`JadaView sky map →![](https://star-register.eu/api/sky-image?ra=112.482917&dec=49.672472&w=96&h=96&fov=0.35)
+RA 7h 29m 55.9s Dec 49° 40' 20.9''Lynx`F7CBF5C5B`Forever Carlos OlivaView sky map →![](https://star-register.eu/api/sky-image?ra=146.8425&dec=23.647694&w=96&h=96&fov=0.35)
+RA 9h 47m 22.2s Dec 23° 38' 51.7''Leo`F9C7B1033`SİNEM GÜLENView sky map →![](https://star-register.eu/api/sky-image?ra=179.071667&dec=35.448167&w=96&h=96&fov=0.35)
+RA 11h 56m 17.2s Dec 35° 26' 53.4''Ursa Major`FD5D15DF4`Pickle & Peanut, Dolce & GabbanaView sky map →![](https://star-register.eu/api/sky-image?ra=170.632083&dec=-53.369861&w=96&h=96&fov=0.35)
+RA 11h 22m 31.7s Dec -53° 22' 11.5''Centaurus`4D3596B05`RenataView sky map →![](https://star-register.eu/api/sky-image?ra=146.174167&dec=70.283056&w=96&h=96&fov=0.35)
+RA 9h 44m 41.8s Dec 70° 16' 59.0''Ursa Major`65B3BB223`MariamView sky map →![](https://star-register.eu/api/sky-image?ra=209.217917&dec=53.894056&w=96&h=96&fov=0.35)
+RA 13h 56m 52.3s Dec 53° 53' 38.6''Ursa Major`5586E8511`Rocky in my SkyView sky map →![](https://star-register.eu/api/sky-image?ra=304.529167&dec=40.732083&w=96&h=96&fov=0.35)
+RA 20h 18m 7.0s Dec 40° 43' 55.5''Cygnus`29925DD9D`Animae & SemperView sky map →![](https://star-register.eu/api/sky-image?ra=303.330417&dec=79.651528&w=96&h=96&fov=0.35)
+RA 20h 13m 19.3s Dec 79° 39' 5.5''Cepheus`E42AF890F`SavannahView sky map →![](https://star-register.eu/api/sky-image?ra=294.671667&dec=54.973806&w=96&h=96&fov=0.35)
+RA 19h 38m 41.2s Dec 54° 58' 25.7''Cygnus`0E8D8DD5C`Reggie BView sky map →![](https://star-register.eu/api/sky-image?ra=321.730833&dec=63.585778&w=96&h=96&fov=0.35)
+RA 21h 26m 55.4s Dec 63° 35' 8.8''Cepheus`CB8B9E939`Arlo PagelView sky map →![](https://star-register.eu/api/sky-image?ra=297.641667&dec=38.722417&w=96&h=96&fov=0.35)
+RA 19h 50m 34.0s Dec 38° 43' 20.7''Cygnus`3AB31B15B`Isabell MarieView sky map →![](https://star-register.eu/api/sky-image?ra=250.964167&dec=-26.808944&w=96&h=96&fov=0.35)
+RA 16h 43m 51.4s Dec -26° 48' 32.2''Scorpius`9031BAA1E`VeraView sky map →![](https://star-register.eu/api/sky-image?ra=249.172917&dec=-35.916361&w=96&h=96&fov=0.35)
+RA 16h 36m 41.5s Dec -35° 54' 58.9''Scorpius`E9B147332`My HeartView sky map →![](https://star-register.eu/api/sky-image?ra=181.396667&dec=52.875472&w=96&h=96&fov=0.35)
+RA 12h 5m 35.2s Dec 52° 52' 31.7''Ursa Major`A3E4A5051`Allie and BrianView sky map →![](https://star-register.eu/api/sky-image?ra=264.0425&dec=74.009139&w=96&h=96&fov=0.35)
+RA 17h 36m 10.2s Dec 74° 0' 32.9''Draco`915A33D32`DancelaView sky map →![](https://star-register.eu/api/sky-image?ra=197.135417&dec=-8.984389&w=96&h=96&fov=0.35)
+RA 13h 8m 32.5s Dec -8° 59' 3.8''Virgo`27153980C`The CastillejaView sky map →![](https://star-register.eu/api/sky-image?ra=282.710417&dec=-22.162194&w=96&h=96&fov=0.35)
+RA 18h 50m 50.5s Dec -22° 9' 43.9''Sagittarius`61286701C`Uma DeviView sky map →![](https://star-register.eu/api/sky-image?ra=84.78625&dec=41.358556&w=96&h=96&fov=0.35)
+RA 5h 39m 8.7s Dec 41° 21' 30.8''Auriga`85B6676A1`LisaView sky map →![](https://star-register.eu/api/sky-image?ra=190.487917&dec=6.806611&w=96&h=96&fov=0.35)
+RA 12h 41m 57.1s Dec 6° 48' 23.8''Virgo`45BBE81EE`Karsten BergeView sky map →
+
+
+SECTION B — RECOMMENDED CATALOGUES
+==================================
+
+SCOPEY RECOMMENDED ASTRONOMY CATALOGUES
+
+1. GAIA DR3 — MAIN STAR CATALOGUE
+
+Purpose:
+Provides accurate stellar data for stars Scopey can identify, locate, and describe.
+
+Recommended fields:
+- Gaia source ID
+- Common star name, when available
+- Right ascension (RA)
+- Declination (Dec)
+- Apparent magnitude
+- Parallax
+- Proper motion in RA
+- Proper motion in Dec
+- Color information
+- Distance in parsecs/light-years when reliable
+
+Uses:
+- What star am I pointing at?
+- How far away is this star?
+- What bright stars are visible tonight?
+- What stars are near this target?
+
+Important:
+Do not put the entire Gaia DR3 catalogue on the phone. Use a filtered subset of useful/bright stars.
+
+Official source:
+ESA Gaia Archive
+https://gea.esac.esa.int/archive/
+
+
+2. MESSIER CATALOGUE
+
+Purpose:
+Provides 110 famous deep-sky objects that are especially useful for amateur astronomers.
+
+Includes:
+- Galaxies
+- Nebulae
+- Open clusters
+- Globular clusters
+- Other prominent deep-sky objects
+
+Recommended fields:
+- Messier number
+- Common name
+- Object type
+- RA
+- Dec
+- Apparent magnitude
+- Surface brightness, when available
+- Angular size
+- Distance
+- Constellation
+
+Examples:
+- M31 — Andromeda Galaxy
+- M42 — Orion Nebula
+- M45 — Pleiades
+- M51 — Whirlpool Galaxy
+- M57 — Ring Nebula
+
+
+3. NGC — NEW GENERAL CATALOGUE
+
+Purpose:
+Expands Scopey far beyond the Messier catalogue.
+
+Recommended fields:
+- NGC number
+- Common name, when available
+- Object type
+- RA
+- Dec
+- Apparent magnitude
+- Surface brightness
+- Major angular axis
+- Minor angular axis
+- Position angle
+- Distance, when available
+- Constellation
+
+Uses:
+- Finding galaxies, nebulae, and clusters
+- Target recommendations
+- Identifying what the telescope is pointing toward
+
+
+4. IC — INDEX CATALOGUE
+
+Purpose:
+Adds additional deep-sky objects beyond the NGC.
+
+Recommended fields:
+- IC number
+- Common name
+- Object type
+- RA
+- Dec
+- Apparent magnitude
+- Surface brightness
+- Angular dimensions
+- Distance, when available
+- Constellation
+
+For an early Scopey version, selected useful IC objects are enough.
+
+
+5. IAU CONSTELLATION DATA
+
+Purpose:
+Allows Scopey to determine which constellation contains a coordinate or object.
+
+Store:
+- All 88 official IAU constellations
+- Official name
+- IAU abbreviation
+- Boundary coordinates
+- Optional traditional constellation line data
+- Major named stars
+
+Uses:
+- What constellation am I pointing at?
+- What constellation is Jupiter in?
+- Show me Orion.
+- What objects are in Sagittarius?
+
+
+6. OPTIONAL DOUBLE/MULTIPLE STAR CATALOGUE
+
+Purpose:
+Provides information about binary and multiple-star systems.
+
+Possible fields:
+- Star/system name
+- RA
+- Dec
+- Component names
+- Magnitudes
+- Angular separation
+- Position angle
+- Distance
+
+Priority:
+Optional for Scopey V1.
+
+
+7. OPTIONAL VARIABLE STAR CATALOGUE
+
+Purpose:
+Allows Scopey to identify and explain stars whose brightness changes over time.
+
+Possible fields:
+- Name
+- RA
+- Dec
+- Variable type
+- Magnitude range
+- Period
+
+Priority:
+Optional for Scopey V1.
+
+
+RECOMMENDED SCOPEY V1 DATABASE
+
+STARS:
+- Approximately 5,000–20,000 useful/bright stars selected from a reliable stellar catalogue such as Gaia
+
+DEEP-SKY:
+- All 110 Messier objects
+- Selected useful NGC objects
+- Selected useful IC objects
+
+CONSTELLATIONS:
+- All 88 IAU constellations
+
+SOLAR SYSTEM:
+- Do not treat the Sun, Moon, or planets as fixed catalogue objects.
+- Calculate their positions dynamically using an astronomical ephemeris.
+
+USER TELESCOPE DATA:
+- Telescope type
+- Aperture
+- Focal length
+- Mount type
+- Tracking capability
+- Eyepieces
+
+LIVE DATA:
+- User latitude/longitude
+- Date/time
+- Weather/observing conditions
+- Phone orientation
+- Telescope altitude/azimuth
+- Calibration state
+
+
+IMPORTANT DISTINCTION
+
+CATALOGUES:
+Used for stars, galaxies, nebulae, clusters, constellations, and other mostly fixed celestial objects.
+
+EPHEMERIS:
+Used for moving Solar System objects such as:
+- Sun
+- Moon
+- Mercury
+- Venus
+- Mars
+- Jupiter
+- Saturn
+- Uranus
+- Neptune
+
+Do not store a single permanent RA/Dec coordinate for moving Solar System objects.
+
+
+MINIMUM RECOMMENDATION
+
+For Scopey V1, prioritize:
+1. Filtered Gaia star data
+2. Messier catalogue
+3. NGC catalogue/subset
+4. IC catalogue/subset
+5. All 88 IAU constellation boundaries
+6. A reliable Solar System ephemeris engine
+
+This is enough catalogue coverage for a strong amateur-telescope application without storing an unnecessarily huge database on the user's device.
+
+
+======================================================================
+SCOPEY CALCULATIONS, EPHEMERIS, TELESCOPE, AND LIVE-DATA REQUIREMENTS
+======================================================================
+
+IMPORTANT:
+Preserve the original coordinate data above. Static star/deep-sky coordinates
+come from catalogues. The Sun, Moon, and planets must be calculated dynamically
+for the requested date/time rather than assigned one permanent RA/Dec.
+
+----------------------------------------------------------------------
+1. MOON EPHEMERIS
+----------------------------------------------------------------------
+
+Inputs:
+- UTC date/time
+- User latitude
+- User longitude
+- User elevation (optional)
+
+Outputs:
+- Right ascension (RA)
+- Declination (Dec)
+- Altitude
+- Azimuth
+- Phase
+- Illumination percentage
+- Earth-Moon distance
+- Angular diameter
+- Moonrise
+- Moonset
+- Lunar transit
+- Apparent brightness
+- Angular separation from selected target
+
+Mean Earth-Moon distance:
+384,400 km
+
+Mean synodic month:
+29.530588853 days
+
+Illuminated fraction:
+k = (1 - cos(E)) / 2
+
+where E is the Sun-Moon elongation.
+
+Phase names:
+- New Moon
+- Waxing Crescent
+- First Quarter
+- Waxing Gibbous
+- Full Moon
+- Waning Gibbous
+- Last Quarter
+- Waning Crescent
+
+Use a real lunar ephemeris for future positions. Do not generate future
+RA/Dec merely by repeating the synodic month.
+
+----------------------------------------------------------------------
+2. SUN CALCULATIONS
+----------------------------------------------------------------------
+
+Inputs:
+- UTC date/time
+- Latitude
+- Longitude
+
+Outputs:
+- Solar RA/Dec
+- Solar altitude/azimuth
+- Sunrise
+- Sunset
+- Solar noon
+- Civil twilight
+- Nautical twilight
+- Astronomical twilight
+
+Standard solar-altitude thresholds:
+- Sunrise/sunset: approximately -0.833 degrees
+- Civil twilight: -6 degrees
+- Nautical twilight: -12 degrees
+- Astronomical twilight: -18 degrees
+
+If solarAltitude <= -18 degrees:
+    astronomicalDarkness = true
+
+----------------------------------------------------------------------
+3. PLANET EPHEMERIS
+----------------------------------------------------------------------
+
+Objects:
+- Mercury
+- Venus
+- Mars
+- Jupiter
+- Saturn
+- Uranus
+- Neptune
+
+For each planet calculate:
+- RA/Dec
+- Altitude/azimuth
+- Rise
+- Set
+- Transit
+- Maximum altitude
+- Earth distance
+- Sun distance
+- Apparent magnitude
+- Angular diameter
+- Phase angle where relevant
+- Illuminated fraction where relevant
+
+Planet coordinates must change with date/time.
+
+----------------------------------------------------------------------
+4. RA/DEC TO ALTITUDE/AZIMUTH
+----------------------------------------------------------------------
+
+Inputs:
+- Object RA
+- Object Dec
+- UTC date/time
+- Observer latitude
+- Observer longitude
+
+Calculate local sidereal time:
+LST = GMST + longitude
+
+Hour angle:
+HA = LST - RA
+
+Altitude:
+Alt = asin(
+    sin(Dec) * sin(Lat)
+    + cos(Dec) * cos(Lat) * cos(HA)
+)
+
+Azimuth:
+Az = atan2(
+    -sin(HA),
+    tan(Dec) * cos(Lat) - sin(Lat) * cos(HA)
+)
+
+Normalize:
+Az = (Az + 360) % 360
+
+Approximate direction mapping:
+337.5-22.5 = North
+22.5-67.5 = Northeast
+67.5-112.5 = East
+112.5-157.5 = Southeast
+157.5-202.5 = South
+202.5-247.5 = Southwest
+247.5-292.5 = West
+292.5-337.5 = Northwest
+
+----------------------------------------------------------------------
+5. ANGULAR SEPARATION
+----------------------------------------------------------------------
+
+For two celestial coordinates:
+
+cos(d) =
+sin(dec1) * sin(dec2)
++ cos(dec1) * cos(dec2) * cos(ra1-ra2)
+
+d = acos(result)
+
+Uses:
+- Moon-to-target separation
+- Object-to-object angular separation
+- Conjunction detection
+- Finding nearby objects
+
+This is angular separation, not physical distance.
+
+----------------------------------------------------------------------
+6. TRUE STELLAR DISTANCE
+----------------------------------------------------------------------
+
+If parallax is in arcseconds:
+distanceParsecs = 1 / parallaxArcseconds
+
+If parallax is in milliarcseconds:
+distanceParsecs = 1000 / parallaxMas
+
+Convert parsecs to light-years:
+distanceLightYears = distanceParsecs * 3.26156
+
+RA/Dec alone cannot provide true physical distance.
+
+----------------------------------------------------------------------
+7. DEEP-SKY CATALOGUE FIELDS
+----------------------------------------------------------------------
+
+For galaxies, nebulae, clusters, and other deep-sky objects, store when
+available:
+
+- ID
+- Common name
+- Catalogue name/number
+- Object type
+- RA
+- Dec
+- Apparent magnitude
+- Surface brightness
+- Angular width
+- Angular height
+- Position angle
+- Distance
+- Constellation
+
+Recommended catalogues:
+- Messier
+- NGC
+- IC
+
+Recommended stellar catalogue:
+- Filtered Gaia data for useful/bright stars
+
+Constellations:
+- All 88 IAU constellations
+- Official names and abbreviations
+- Boundary coordinates
+- Optional line/star relationships
+
+----------------------------------------------------------------------
+8. TELESCOPE PROFILE
+----------------------------------------------------------------------
+
+Store:
+- Telescope name/model
+- Telescope type
+- Aperture in mm
+- Focal length in mm
+- Mount type
+- Tracking capability
+- GoTo capability
+- Push-to capability
+- Eyepiece focal lengths
+- Eyepiece apparent field of view
+- Barlow lenses
+
+Magnification:
+magnification = telescopeFocalLength / eyepieceFocalLength
+
+Rough maximum useful magnification:
+maxMagnification ~= 2 * apertureMm
+
+Focal ratio:
+fRatio = focalLengthMm / apertureMm
+
+Approximate true field of view:
+trueFOV = eyepieceApparentFOV / magnification
+
+----------------------------------------------------------------------
+9. ENVIRONMENT / OBSERVING CONDITIONS
+----------------------------------------------------------------------
+
+Retrieve dynamically where possible:
+- Cloud cover
+- Humidity
+- Temperature
+- Wind
+- Visibility
+- Atmospheric seeing
+- Transparency
+- Light pollution
+- Bortle class
+- Sky brightness
+- Moon altitude
+- Moon illumination
+- Moon-target angular separation
+
+Bortle scale:
+1 = exceptionally dark
+2 = typical dark site
+3 = rural sky
+4 = rural/suburban transition
+5 = suburban sky
+6 = bright suburban
+7 = suburban/urban transition
+8 = city sky
+9 = inner-city sky
+
+Use actual light-pollution data for Bortle estimates rather than ordinary
+weather or population alone.
+
+----------------------------------------------------------------------
+10. LIVE ORIENTATION
+----------------------------------------------------------------------
+
+Phone data:
+- Accelerometer
+- Gyroscope
+- Magnetometer/compass
+- Device orientation
+- Compass heading
+
+Telescope data:
+- Current altitude
+- Current azimuth
+
+Calibration data:
+- Calibration state
+- Altitude offset
+- Azimuth offset
+- Sensor accuracy/confidence
+
+Shortest azimuth movement:
+deltaAzimuth =
+((targetAzimuth - telescopeAzimuth + 540) % 360) - 180
+
+Altitude movement:
+deltaAltitude = targetAltitude - telescopeAltitude
+
+Example guidance:
+- "Move 8 degrees upward and 12 degrees to the right."
+- "You're getting closer."
+- "Almost there."
+- "Target aligned."
+
+Example alignment thresholds:
+- >10 degrees: FAR
+- 3-10 degrees: GETTING CLOSER
+- 0.5-3 degrees: ALMOST THERE
+- <0.5 degrees: ALIGNED
+
+----------------------------------------------------------------------
+11. WHAT AM I POINTING AT?
+----------------------------------------------------------------------
+
+Use current telescope Alt/Az and compare it with calculated Alt/Az for
+catalogue objects.
+
+Find angular separation from the telescope pointing direction to candidate
+objects.
+
+Use telescope field of view and sensor/calibration uncertainty as tolerances.
+
+Do not automatically claim that the nearest object is definitely being viewed.
+
+Example:
+"Your telescope is pointed very close to Saturn."
+
+----------------------------------------------------------------------
+12. OBJECT VISIBILITY
+----------------------------------------------------------------------
+
+Basic altitude categories:
+- altitude <= 0: below horizon
+- 0-15 degrees: very poor
+- 15-30 degrees: low
+- 30-60 degrees: good
+- 60-90 degrees: excellent altitude
+
+Final visibility should also consider:
+- Apparent magnitude
+- Surface brightness
+- Telescope aperture
+- Magnification/field of view
+- Moon interference
+- Cloud cover
+- Transparency
+- Seeing
+- Light pollution
+- Solar altitude/twilight
+
+----------------------------------------------------------------------
+13. MOON INTERFERENCE
+----------------------------------------------------------------------
+
+Inputs:
+- Moon altitude
+- Moon illumination
+- Moon-target angular separation
+- Target surface brightness
+- Target type
+
+General logic:
+- Moon below horizon -> minimal lunar interference
+- Bright Moon + above horizon + small target separation -> greater interference
+- Diffuse galaxies/nebulae receive a larger penalty than bright planets/stars
+
+----------------------------------------------------------------------
+14. TARGET RECOMMENDATION
+----------------------------------------------------------------------
+
+Possible 100-point internal scoring model:
+- Altitude: 0-30
+- Brightness: 0-20
+- Telescope suitability: 0-20
+- Moon conditions: 0-10
+- Sky darkness: 0-10
+- Weather: 0-10
+
+Use this to rank targets, but the chatbot does not need to expose the raw
+score unless useful.
+
+----------------------------------------------------------------------
+15. RISE / SET / TRANSIT
+----------------------------------------------------------------------
+
+For each object determine:
+- Next rise time
+- Next transit time
+- Next set time
+- Maximum altitude
+
+Handle:
+- Objects that never rise
+- Circumpolar objects that never set
+- Objects below the horizon all night
+
+----------------------------------------------------------------------
+16. OBSERVING WINDOWS
+----------------------------------------------------------------------
+
+Combine:
+- Solar altitude
+- Target altitude
+- Moon interference
+- Weather
+- Telescope capability
+
+Return:
+- Best start time
+- Best end time
+- Best time
+- Quality/difficulty
+
+----------------------------------------------------------------------
+17. FUTURE DATE SUPPORT
+----------------------------------------------------------------------
+
+Support:
+- Current time
+- Tonight
+- Tomorrow
+- User-selected date/time
+- At least five years of future dates
+
+Do not store five years of hourly Moon/planet coordinates.
+Calculate requested positions dynamically with an ephemeris.
+
+----------------------------------------------------------------------
+18. CORE SCOPEY DATA MODEL
+----------------------------------------------------------------------
+
+USER:
+- latitude
+- longitude
+- elevation
+- timezone
+
+TIME:
+- UTC date/time
+- local date/time
+
+OBJECT:
+- name
+- aliases
+- type
+- RA
+- Dec
+- magnitude
+- surface brightness
+- angular size
+- distance
+- parallax
+- constellation
+- catalogue IDs
+
+TELESCOPE:
+- type
+- aperture
+- focal length
+- mount
+- tracking
+- eyepieces
+- Barlow lenses
+
+LIVE SENSOR STATE:
+- phone heading
+- phone orientation
+- telescope altitude
+- telescope azimuth
+- calibration state
+- sensor confidence
+
+ENVIRONMENT:
+- clouds
+- humidity
+- temperature
+- wind
+- seeing
+- transparency
+- Bortle class
+- sky brightness
+
+DYNAMIC ASTRONOMY:
+- Sun position/events
+- Moon position/events/phase
+- Planet positions/events
+
+This data allows Scopey to answer:
+- What can I see tonight?
+- What is rising soon?
+- When does astronomical darkness begin?
+- Where will the Moon be on a future date?
+- What am I pointing at?
+- What is the best target for my telescope?
+- How far apart are these objects?
+- Will moonlight affect this target?
+- Which direction should I move my telescope?

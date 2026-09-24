@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "697399589570",
+    "project_id": "telestronomy-9bc54",
+    "storage_bucket": "telestronomy-9bc54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697399589570:android:8cf82df2bdbcfa7f91195b",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697399589570-l2e9hse7ti39bfd5bhf5n0mh54fha4vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPB0o2PWmw9AgFby-_Sr1k-yZVmpGVW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697399589570-l2e9hse7ti39bfd5bhf5n0mh54fha4vk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "697399589570-2s54l2ppf103hmvc09lhdo3rc8b0b41a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

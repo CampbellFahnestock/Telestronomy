@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Telestronomy</title>
+
+<style>
+  body {
+    background: #0b1020;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 25px;
+  }
+
+  h1 { color: #a8c7ff; }
+
+  .card {
+    background: #19243b;
+    border-radius: 15px;
+    padding: 25px;
+    margin: 20px auto;
+    max-width: 450px;
+  }
+
+  button, select {
+    padding: 14px;
+    margin: 10px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+  }
+
+  button {
+    background: #638bff;
+    color: white;
+    cursor: pointer;
+  }
+
+  select {
+    background: white;
+    color: #101827;
+  }
+</style>
+</head>
+
+<body>
+
+<h1>TELESTRONOMY</h1>
+<p>Your personal telescope navigation assistant</p>
+
+<div class="card">
+  <h2>Find Your Location</h2>
+  <button onclick="getLocation()">
+    Get My Location
+  </button>
+  <p id="location">Location not detected</p>
+</div>
+
+<div class="card">
+  <h2>Select a Celestial Object</h2>
+
+  <select id="star">
+    <option>Polaris</option>
+    <option>Vega</option>
+    <option>Sirius</option>
+    <option>Betelgeuse</option>
+    <option>Rigel</option>
+  </select>
+
+  <br>
+
+  <button onclick="findStar()">
+    Find Object
+  </button>
+
+  <h3 id="result">Ready to navigate</h3>
+</div>
+
+<script>
+function getLocation() {
+  if (!navigator.geolocation) {
+    document.getElementById("location").innerText =
+      "GPS is not supported.";
+    return;
+  }
+
+  navigator.geolocation.getCurrentPosition(
+    position => {
+      document.getElementById("location").innerText =
+        "Latitude: " +
+        position.coords.latitude.toFixed(4) +
+        "\nLongitude: " +
+        position.coords.longitude.toFixed(4);
+    },
+    () => {
+      document.getElementById("location").innerText =
+        "Unable to access location.";
+    }
+  );
+}
+
+function findStar() {
+  const star = document.getElementById("star").value;
+
+  document.getElementById("result").innerText =
+    "Target selected: " + star +
+    ". Telescope navigation coming soon.";
+}
+</script>
+
+</body>
+</html>

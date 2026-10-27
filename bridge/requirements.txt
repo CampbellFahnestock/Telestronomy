@@ -1,0 +1,4 @@
+flask>=2.3
+pillow>=10.0
+# Optional, for the real UVC camera backend (SVBONY SV905C):
+# opencv-python>=4.8

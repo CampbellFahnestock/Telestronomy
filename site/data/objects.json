@@ -1,0 +1,769 @@
+{
+ "epoch": "J2000",
+ "units": "ra and dec in decimal degrees",
+ "objects": [
+  {
+   "name": "Polaris",
+   "type": "Star",
+   "ra": 37.9545,
+   "dec": 89.2641,
+   "mag": 2.0
+  },
+  {
+   "name": "Sirius",
+   "type": "Star",
+   "ra": 101.2875,
+   "dec": -16.7161,
+   "mag": -1.46
+  },
+  {
+   "name": "Canopus",
+   "type": "Star",
+   "ra": 95.988,
+   "dec": -52.6957,
+   "mag": -0.74
+  },
+  {
+   "name": "Arcturus",
+   "type": "Star",
+   "ra": 213.915,
+   "dec": 19.1824,
+   "mag": -0.05
+  },
+  {
+   "name": "Rigil Kentaurus",
+   "type": "Star",
+   "ra": 219.9,
+   "dec": -60.834,
+   "mag": -0.01
+  },
+  {
+   "name": "Vega",
+   "type": "Star",
+   "ra": 279.234,
+   "dec": 38.7837,
+   "mag": 0.03
+  },
+  {
+   "name": "Capella",
+   "type": "Star",
+   "ra": 79.173,
+   "dec": 45.998,
+   "mag": 0.08
+  },
+  {
+   "name": "Rigel",
+   "type": "Star",
+   "ra": 78.6345,
+   "dec": -8.2016,
+   "mag": 0.13
+  },
+  {
+   "name": "Procyon",
+   "type": "Star",
+   "ra": 114.825,
+   "dec": 5.225,
+   "mag": 0.34
+  },
+  {
+   "name": "Achernar",
+   "type": "Star",
+   "ra": 24.429,
+   "dec": -57.2367,
+   "mag": 0.46
+  },
+  {
+   "name": "Betelgeuse",
+   "type": "Star",
+   "ra": 88.7925,
+   "dec": 7.4071,
+   "mag": 0.5
+  },
+  {
+   "name": "Hadar",
+   "type": "Star",
+   "ra": 210.9555,
+   "dec": -60.373,
+   "mag": 0.61
+  },
+  {
+   "name": "Altair",
+   "type": "Star",
+   "ra": 297.696,
+   "dec": 8.8683,
+   "mag": 0.77
+  },
+  {
+   "name": "Acrux",
+   "type": "Star",
+   "ra": 186.6495,
+   "dec": -63.0991,
+   "mag": 0.76
+  },
+  {
+   "name": "Aldebaran",
+   "type": "Star",
+   "ra": 68.9805,
+   "dec": 16.5093,
+   "mag": 0.86
+  },
+  {
+   "name": "Antares",
+   "type": "Star",
+   "ra": 247.3515,
+   "dec": -26.432,
+   "mag": 0.96
+  },
+  {
+   "name": "Spica",
+   "type": "Star",
+   "ra": 201.2985,
+   "dec": -11.1613,
+   "mag": 0.97
+  },
+  {
+   "name": "Pollux",
+   "type": "Star",
+   "ra": 116.3295,
+   "dec": 28.0262,
+   "mag": 1.14
+  },
+  {
+   "name": "Fomalhaut",
+   "type": "Star",
+   "ra": 344.412,
+   "dec": -29.6222,
+   "mag": 1.16
+  },
+  {
+   "name": "Deneb",
+   "type": "Star",
+   "ra": 310.3575,
+   "dec": 45.2803,
+   "mag": 1.25
+  },
+  {
+   "name": "Mimosa",
+   "type": "Star",
+   "ra": 191.9295,
+   "dec": -59.6888,
+   "mag": 1.25
+  },
+  {
+   "name": "Regulus",
+   "type": "Star",
+   "ra": 152.0925,
+   "dec": 11.9672,
+   "mag": 1.35
+  },
+  {
+   "name": "Adhara",
+   "type": "Star",
+   "ra": 104.6565,
+   "dec": -28.9721,
+   "mag": 1.5
+  },
+  {
+   "name": "Castor",
+   "type": "Star",
+   "ra": 113.6505,
+   "dec": 31.8883,
+   "mag": 1.58
+  },
+  {
+   "name": "Gacrux",
+   "type": "Star",
+   "ra": 187.791,
+   "dec": -57.1132,
+   "mag": 1.64
+  },
+  {
+   "name": "Shaula",
+   "type": "Star",
+   "ra": 263.4015,
+   "dec": -37.1038,
+   "mag": 1.62
+  },
+  {
+   "name": "Bellatrix",
+   "type": "Star",
+   "ra": 81.2835,
+   "dec": 6.3497,
+   "mag": 1.64
+  },
+  {
+   "name": "Elnath",
+   "type": "Star",
+   "ra": 81.573,
+   "dec": 28.6075,
+   "mag": 1.65
+  },
+  {
+   "name": "Miaplacidus",
+   "type": "Star",
+   "ra": 138.3,
+   "dec": -69.7172,
+   "mag": 1.68
+  },
+  {
+   "name": "Alnilam",
+   "type": "Star",
+   "ra": 84.054,
+   "dec": -1.2019,
+   "mag": 1.69
+  },
+  {
+   "name": "Alnair",
+   "type": "Star",
+   "ra": 332.058,
+   "dec": -46.961,
+   "mag": 1.74
+  },
+  {
+   "name": "Alnitak",
+   "type": "Star",
+   "ra": 85.1895,
+   "dec": -1.9426,
+   "mag": 1.77
+  },
+  {
+   "name": "Alioth",
+   "type": "Star",
+   "ra": 193.5075,
+   "dec": 55.9598,
+   "mag": 1.76
+  },
+  {
+   "name": "Dubhe",
+   "type": "Star",
+   "ra": 165.9315,
+   "dec": 61.751,
+   "mag": 1.79
+  },
+  {
+   "name": "Mirfak",
+   "type": "Star",
+   "ra": 51.081,
+   "dec": 49.8612,
+   "mag": 1.79
+  },
+  {
+   "name": "Wezen",
+   "type": "Star",
+   "ra": 107.0985,
+   "dec": -26.3932,
+   "mag": 1.84
+  },
+  {
+   "name": "Sargas",
+   "type": "Star",
+   "ra": 264.33,
+   "dec": -42.9978,
+   "mag": 1.87
+  },
+  {
+   "name": "Kaus Australis",
+   "type": "Star",
+   "ra": 276.0435,
+   "dec": -34.3846,
+   "mag": 1.85
+  },
+  {
+   "name": "Avior",
+   "type": "Star",
+   "ra": 125.628,
+   "dec": -59.5095,
+   "mag": 1.86
+  },
+  {
+   "name": "Alkaid",
+   "type": "Star",
+   "ra": 206.8845,
+   "dec": 49.3133,
+   "mag": 1.86
+  },
+  {
+   "name": "Menkalinan",
+   "type": "Star",
+   "ra": 89.8815,
+   "dec": 44.9474,
+   "mag": 1.9
+  },
+  {
+   "name": "Atria",
+   "type": "Star",
+   "ra": 252.165,
+   "dec": -69.0277,
+   "mag": 1.92
+  },
+  {
+   "name": "Alhena",
+   "type": "Star",
+   "ra": 99.4275,
+   "dec": 16.3993,
+   "mag": 1.93
+  },
+  {
+   "name": "Peacock",
+   "type": "Star",
+   "ra": 306.4125,
+   "dec": -56.7351,
+   "mag": 1.94
+  },
+  {
+   "name": "Mirzam",
+   "type": "Star",
+   "ra": 95.6745,
+   "dec": -17.9559,
+   "mag": 1.98
+  },
+  {
+   "name": "Alphard",
+   "type": "Star",
+   "ra": 141.897,
+   "dec": -8.6586,
+   "mag": 1.98
+  },
+  {
+   "name": "Hamal",
+   "type": "Star",
+   "ra": 31.794,
+   "dec": 23.4624,
+   "mag": 2.0
+  },
+  {
+   "name": "Nunki",
+   "type": "Star",
+   "ra": 283.8165,
+   "dec": -26.2967,
+   "mag": 2.05
+  },
+  {
+   "name": "Diphda",
+   "type": "Star",
+   "ra": 10.8975,
+   "dec": -17.9866,
+   "mag": 2.04
+  },
+  {
+   "name": "Saiph",
+   "type": "Star",
+   "ra": 86.9385,
+   "dec": -9.6696,
+   "mag": 2.06
+  },
+  {
+   "name": "Mizar",
+   "type": "Star",
+   "ra": 200.9805,
+   "dec": 54.9254,
+   "mag": 2.23
+  },
+  {
+   "name": "Algol",
+   "type": "Star",
+   "ra": 47.0415,
+   "dec": 40.9556,
+   "mag": 2.1
+  },
+  {
+   "name": "Markab",
+   "type": "Star",
+   "ra": 346.1895,
+   "dec": 15.2053,
+   "mag": 2.49
+  },
+  {
+   "name": "Denebola",
+   "type": "Star",
+   "ra": 177.2655,
+   "dec": 14.572,
+   "mag": 2.14
+  },
+  {
+   "name": "Rasalhague",
+   "type": "Star",
+   "ra": 263.733,
+   "dec": 12.56,
+   "mag": 2.07
+  },
+  {
+   "name": "Enif",
+   "type": "Star",
+   "ra": 326.046,
+   "dec": 9.875,
+   "mag": 2.39
+  },
+  {
+   "name": "Albireo",
+   "type": "Star",
+   "ra": 292.68,
+   "dec": 27.9597,
+   "mag": 3.1
+  },
+  {
+   "name": "Sun",
+   "type": "Sun",
+   "ephemeris": "sun",
+   "ra": null,
+   "dec": null
+  },
+  {
+   "name": "Moon",
+   "type": "Moon",
+   "ephemeris": "moon",
+   "ra": null,
+   "dec": null
+  },
+  {
+   "name": "Mercury",
+   "type": "Planet",
+   "ephemeris": "mercury",
+   "ra": null,
+   "dec": null
+  },
+  {
+   "name": "Venus",
+   "type": "Planet",
+   "ephemeris": "venus",
+   "ra": null,
+   "dec": null
+  },
+  {
+   "name": "Mars",
+   "type": "Planet",
+   "ephemeris": "mars",
+   "ra": null,
+   "dec": null
+  },
+  {
+   "name": "Jupiter",
+   "type": "Planet",
+   "ephemeris": "jupiter",
+   "ra": null,
+   "dec": null
+  },
+  {
+   "name": "Saturn",
+   "type": "Planet",
+   "ephemeris": "saturn",
+   "ra": null,
+   "dec": null
+  },
+  {
+   "name": "Uranus",
+   "type": "Planet",
+   "ephemeris": "uranus",
+   "ra": null,
+   "dec": null
+  },
+  {
+   "name": "Neptune",
+   "type": "Planet",
+   "ephemeris": "neptune",
+   "ra": null,
+   "dec": null
+  },
+  {
+   "name": "M1 Crab Nebula",
+   "type": "Supernova remnant",
+   "ra": 83.6325,
+   "dec": 22.0145,
+   "mag": 8.4
+  },
+  {
+   "name": "M2",
+   "type": "Globular cluster",
+   "ra": 323.3625,
+   "dec": -0.8233,
+   "mag": 6.5
+  },
+  {
+   "name": "M3",
+   "type": "Globular cluster",
+   "ra": 205.548,
+   "dec": 28.3773,
+   "mag": 6.2
+  },
+  {
+   "name": "M4",
+   "type": "Globular cluster",
+   "ra": 245.8995,
+   "dec": -26.5253,
+   "mag": 5.6
+  },
+  {
+   "name": "M5",
+   "type": "Globular cluster",
+   "ra": 229.638,
+   "dec": 2.081,
+   "mag": 5.6
+  },
+  {
+   "name": "M6 Butterfly Cluster",
+   "type": "Open cluster",
+   "ra": 265.0245,
+   "dec": -32.2167,
+   "mag": 4.2
+  },
+  {
+   "name": "M7 Ptolemy's Cluster",
+   "type": "Open cluster",
+   "ra": 268.4745,
+   "dec": -34.7933,
+   "mag": 3.3
+  },
+  {
+   "name": "M8 Lagoon Nebula",
+   "type": "Nebula",
+   "ra": 270.945,
+   "dec": -24.3833,
+   "mag": 6.0
+  },
+  {
+   "name": "M10",
+   "type": "Globular cluster",
+   "ra": 254.2875,
+   "dec": -4.0994,
+   "mag": 6.4
+  },
+  {
+   "name": "M11 Wild Duck Cluster",
+   "type": "Open cluster",
+   "ra": 282.7755,
+   "dec": -6.27,
+   "mag": 6.3
+  },
+  {
+   "name": "M12",
+   "type": "Globular cluster",
+   "ra": 251.8095,
+   "dec": -1.9486,
+   "mag": 6.7
+  },
+  {
+   "name": "M13 Hercules Cluster",
+   "type": "Globular cluster",
+   "ra": 250.4235,
+   "dec": 36.4613,
+   "mag": 5.8
+  },
+  {
+   "name": "M15",
+   "type": "Globular cluster",
+   "ra": 322.5,
+   "dec": 12.1667,
+   "mag": 6.2
+  },
+  {
+   "name": "M16 Eagle Nebula",
+   "type": "Nebula",
+   "ra": 274.695,
+   "dec": -13.8,
+   "mag": 6.0
+  },
+  {
+   "name": "M17 Omega Nebula",
+   "type": "Nebula",
+   "ra": 275.2005,
+   "dec": -16.1717,
+   "mag": 6.0
+  },
+  {
+   "name": "M20 Trifid Nebula",
+   "type": "Nebula",
+   "ra": 270.645,
+   "dec": -23.03,
+   "mag": 6.3
+  },
+  {
+   "name": "M22",
+   "type": "Globular cluster",
+   "ra": 279.1065,
+   "dec": -23.9048,
+   "mag": 5.1
+  },
+  {
+   "name": "M27 Dumbbell Nebula",
+   "type": "Planetary nebula",
+   "ra": 299.901,
+   "dec": 22.7211,
+   "mag": 7.5
+  },
+  {
+   "name": "M31 Andromeda Galaxy",
+   "type": "Galaxy",
+   "ra": 10.6845,
+   "dec": 41.2692,
+   "mag": 3.4
+  },
+  {
+   "name": "M33 Triangulum Galaxy",
+   "type": "Galaxy",
+   "ra": 23.4615,
+   "dec": 30.6602,
+   "mag": 5.7
+  },
+  {
+   "name": "M35",
+   "type": "Open cluster",
+   "ra": 92.2005,
+   "dec": 24.3333,
+   "mag": 5.3
+  },
+  {
+   "name": "M36",
+   "type": "Open cluster",
+   "ra": 84.0375,
+   "dec": 34.14,
+   "mag": 6.0
+  },
+  {
+   "name": "M37",
+   "type": "Open cluster",
+   "ra": 88.0995,
+   "dec": 32.5533,
+   "mag": 5.6
+  },
+  {
+   "name": "M38",
+   "type": "Open cluster",
+   "ra": 82.1745,
+   "dec": 35.845,
+   "mag": 6.4
+  },
+  {
+   "name": "M41",
+   "type": "Open cluster",
+   "ra": 101.5005,
+   "dec": -20.7567,
+   "mag": 4.5
+  },
+  {
+   "name": "M42 Orion Nebula",
+   "type": "Nebula",
+   "ra": 83.8215,
+   "dec": -5.3911,
+   "mag": 4.0
+  },
+  {
+   "name": "M44 Beehive Cluster",
+   "type": "Open cluster",
+   "ra": 130.0995,
+   "dec": 19.9833,
+   "mag": 3.7
+  },
+  {
+   "name": "M45 Pleiades",
+   "type": "Open cluster",
+   "ra": 56.871,
+   "dec": 24.1053,
+   "mag": 1.6
+  },
+  {
+   "name": "M51 Whirlpool Galaxy",
+   "type": "Galaxy",
+   "ra": 202.4685,
+   "dec": 47.1953,
+   "mag": 8.4
+  },
+  {
+   "name": "M57 Ring Nebula",
+   "type": "Planetary nebula",
+   "ra": 283.395,
+   "dec": 33.0286,
+   "mag": 8.8
+  },
+  {
+   "name": "M63 Sunflower Galaxy",
+   "type": "Galaxy",
+   "ra": 198.9495,
+   "dec": 42.0292,
+   "mag": 8.6
+  },
+  {
+   "name": "M64 Black Eye Galaxy",
+   "type": "Galaxy",
+   "ra": 194.184,
+   "dec": 21.6828,
+   "mag": 8.5
+  },
+  {
+   "name": "M65",
+   "type": "Galaxy",
+   "ra": 169.7295,
+   "dec": 13.0922,
+   "mag": 9.3
+  },
+  {
+   "name": "M66",
+   "type": "Galaxy",
+   "ra": 170.0625,
+   "dec": 12.9914,
+   "mag": 8.9
+  },
+  {
+   "name": "M81 Bode's Galaxy",
+   "type": "Galaxy",
+   "ra": 148.887,
+   "dec": 69.0653,
+   "mag": 6.9
+  },
+  {
+   "name": "M82 Cigar Galaxy",
+   "type": "Galaxy",
+   "ra": 148.971,
+   "dec": 69.6797,
+   "mag": 8.4
+  },
+  {
+   "name": "M83 Southern Pinwheel",
+   "type": "Galaxy",
+   "ra": 204.2505,
+   "dec": -29.8656,
+   "mag": 7.5
+  },
+  {
+   "name": "M87 Virgo A",
+   "type": "Galaxy",
+   "ra": 187.7055,
+   "dec": 12.3911,
+   "mag": 8.6
+  },
+  {
+   "name": "M92",
+   "type": "Globular cluster",
+   "ra": 259.281,
+   "dec": 43.1359,
+   "mag": 6.4
+  },
+  {
+   "name": "M97 Owl Nebula",
+   "type": "Planetary nebula",
+   "ra": 168.7005,
+   "dec": 55.019,
+   "mag": 9.9
+  },
+  {
+   "name": "M101 Pinwheel Galaxy",
+   "type": "Galaxy",
+   "ra": 210.8025,
+   "dec": 54.349,
+   "mag": 7.9
+  },
+  {
+   "name": "M104 Sombrero Galaxy",
+   "type": "Galaxy",
+   "ra": 190.0005,
+   "dec": -11.6231,
+   "mag": 8.0
+  },
+  {
+   "name": "M106",
+   "type": "Galaxy",
+   "ra": 184.7505,
+   "dec": 47.3039,
+   "mag": 8.4
+  }
+ ]
+}
